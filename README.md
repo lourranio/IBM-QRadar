@@ -27,4 +27,4 @@ https://www.ibm.com/resources/mrs/assets?S_PKG=ov60294&source=swg-qradarcom
 
 ## Passo 4: Na pagina 'Download the IBM QRadar Community Edition' Clique em **Download**
 
-![Step 4](images/step4.png)
+![Step 4](images/step5.png)
